@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1671534135 source:c:\users\asus\desktop\last_version_of_the_mini_project_ramzi&mahdi\main.c
+	"ramzi_and_mahdi.h"
+
+1671535320 source:c:\users\asus\desktop\last_version_of_the_mini_project_ramzi&mahdi\ramzi_and_mahdi.c
+	"ramzi_and_mahdi.h"
+
+1671409525 c:\users\asus\desktop\last_version_of_the_mini_project_ramzi&mahdi\ramzi_and_mahdi.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1672062131 source:c:\users\asus\desktop\cours_td_tp\asds\rapport mini projet\last_version_of_the_mini_project_ramzi&mahdi\main.c
+	"ramzi_and_mahdi.h"
+
+1671409525 c:\users\asus\desktop\cours_td_tp\asds\rapport mini projet\last_version_of_the_mini_project_ramzi&mahdi\ramzi_and_mahdi.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1671537229 source:c:\users\asus\desktop\cours_td_tp\asds\rapport mini projet\last_version_of_the_mini_project_ramzi&mahdi\ramzi_and_mahdi.c
+	"ramzi_and_mahdi.h"
+
+1672062131 source:c:\users\asus\desktop\cours_td_tp_s1\asds\rapport mini projet\last_version_of_the_mini_project_ramzi&mahdi\main.c
+	"ramzi_and_mahdi.h"
+
+1671409525 c:\users\asus\desktop\cours_td_tp_s1\asds\rapport mini projet\last_version_of_the_mini_project_ramzi&mahdi\ramzi_and_mahdi.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1671537229 source:c:\users\asus\desktop\cours_td_tp_s1\asds\rapport mini projet\last_version_of_the_mini_project_ramzi&mahdi\ramzi_and_mahdi.c
+	"ramzi_and_mahdi.h"
+
